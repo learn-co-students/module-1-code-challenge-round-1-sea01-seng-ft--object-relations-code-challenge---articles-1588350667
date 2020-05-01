@@ -7,7 +7,7 @@ end
 
 ###  WRITE YOUR TEST CODE HERE ###
 
-
+art1 = Article.new("Cher", "Fabulous Magazine", "My Life as Cher")
 
 
 
